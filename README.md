@@ -2,6 +2,9 @@
 
 **A public framework for tying the value of money to the resolution of real-world problems.**
 
+<img alt="wide project logo" src="./media/logo-wide.png" />
+
+
 This project proposes a new kind of monetary layer — one where the value of each unit is inversely tied or coupled to a measurable global harm:
 
 - **Land** → desertification  
@@ -15,7 +18,7 @@ This project proposes a new kind of monetary layer — one where the value of ea
 
 ---
 
-## 🧭 What This Is
+## What This Is
 
 This is not a cryptocurrency.  
 This is not a donation system.  
@@ -32,7 +35,7 @@ A tradable currency can emerge from the birthright layer — through dividend fl
 The more we heal, the more valuable this layer becomes. It allows markets to operate without decoupling from planetary reality.
 
 ---
-### 📐 How Value Is Calculated
+### How Value Is Calculated
 
 Each domain-specific value unit (Land, Sea, Air, Fire) is tied to a real-world problem. The value of the unit increases as the problem is reduced, using a population-anchored formula:
 
@@ -50,7 +53,7 @@ As we collectively solve the problem, the value of that unit increases — benef
 
 ---
 
-### ✅ Example
+### Example
 
 If there are 8 million tons of ocean plastic today, then:
 
@@ -67,7 +70,7 @@ Value(Sea) = 8,216,040,489 / 4,000,000 = ~2.05
 As the problem approaches zero, value increases — not through speculation or productivity, but **through solving a common problem**.
 
 
-## 🧪 What This Could Enable
+## What This Could Enable
 
 - A new class of **impact-tied currency systems**
 - A way to **value people without productivity metrics**
@@ -87,14 +90,14 @@ This is not a finished product. It’s a beginning — and an open invitation fo
 
 ---
 
-## 📜 License
+## License
 
 - **Code and documentation**: [Apache 2.0 License](LICENSE)  
 - **White paper**: [Creative Commons Attribution 4.0 (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Emunae Lator**  
 📧 elementalframework@pm.me  
